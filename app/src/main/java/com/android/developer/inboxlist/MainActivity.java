@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
     private SwipeRefreshLayout swipeRefreshLayout;
     private ActionModeCallback actionModeCallback;
     private ActionMode actionMode;
+    //kajankja
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
